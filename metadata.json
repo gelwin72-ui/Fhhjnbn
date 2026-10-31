@@ -1,0 +1,6 @@
+{
+  "name": "FreshMart Supermarket & Smart AI Kitchen",
+  "description": "An online supermarket with fresh groceries, smart AI meal planning, instant recipe-to-cart, dietary filters, delivery tracking, and savings deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
